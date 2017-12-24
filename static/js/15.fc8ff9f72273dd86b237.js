@@ -1,0 +1,2 @@
+webpackJsonp([15],{"9HLh":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var c=n("dSRy"),s=n("X2Oc"),a={computed:{id:function(){return this.$route.params.id||Object(s.c)().sub}},components:{AccountDetails:c.a}},r=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("section",{staticClass:"page"},[n("account-details",{attrs:{id:e.id}})],1)},u=[],i={render:r,staticRenderFns:u},l=i,o=n("VU/8"),d=o(a,l,!1,null,null,null);t.default=d.exports}});
+//# sourceMappingURL=15.fc8ff9f72273dd86b237.js.map
