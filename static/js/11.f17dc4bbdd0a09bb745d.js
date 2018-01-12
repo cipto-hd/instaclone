@@ -1,2 +1,0 @@
-webpackJsonp([11],{j7e0:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s=n("Qkti"),l={components:{PhotoList:s.c}},o=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("section",{staticClass:"page"},[n("photo-list")],1)},c=[],r={render:o,staticRenderFns:c},i=r,a=n("VU/8"),u=a(l,i,!1,null,null,null);t.default=u.exports}});
-//# sourceMappingURL=11.f17dc4bbdd0a09bb745d.js.map
