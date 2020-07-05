@@ -1,0 +1,2 @@
+webpackJsonp([15],{"8O4z":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var o=n("TKJA"),s={name:"PhotoCommentChildcommentIndex",components:{ChildCommentList:o.a}},l=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("section",{staticClass:"page"},[n("child-comment-list"),e._v(" "),n("p",{attrs:{id:"bottom"}})],1)},c=[],i={render:l,staticRenderFns:c},a=i,r=n("VU/8"),m=r(s,a,!1,null,null,null);t.default=m.exports}});
+//# sourceMappingURL=15.f5af0dece167bbaef37f.js.map

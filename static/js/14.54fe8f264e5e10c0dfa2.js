@@ -1,0 +1,2 @@
+webpackJsonp([14],{I8Xn:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s=n("TKJA"),o={name:"PhotoCommentIndex",components:{CommentList:s.b}},l=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("section",{staticClass:"page"},[n("comment-list"),e._v(" "),n("p",{attrs:{id:"bottom"}})],1)},r=[],a={render:l,staticRenderFns:r},c=a,i=n("VU/8"),m=i(o,c,!1,null,null,null);t.default=m.exports}});
+//# sourceMappingURL=14.54fe8f264e5e10c0dfa2.js.map
